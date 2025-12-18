@@ -1,1 +1,3 @@
-anomalib
+matplotlib 
+opencv-python 
+numpy
