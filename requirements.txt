@@ -4,6 +4,7 @@ matplotlib
 opencv-python
 pillow
 tifffile
+open3d
 
 # PyTorch
 torch
