@@ -1,3 +1,17 @@
-matplotlib 
-opencv-python 
+# Core
 numpy
+matplotlib
+opencv-python
+pillow
+tifffile
+
+# PyTorch
+torch
+torchvision
+
+# Machine Learning
+scikit-learn
+scipy
+
+# Progress bars
+tqdm
